@@ -9,3 +9,7 @@ end
 get '/signup' do
   
 end
+
+get '/hub' do
+  erb :hub
+end
